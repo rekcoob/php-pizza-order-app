@@ -2,6 +2,6 @@
 
 
     <footer class="section">
-        <div class="center grey-text">Copyright 2018 Ninja Pizzas</div>
+        <div class="center grey-text">	&#169 2020 Ninja Pizzas by rekcoob</div>
     </footer>
 </body>
